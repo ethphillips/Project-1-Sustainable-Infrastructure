@@ -1,0 +1,65 @@
+
+
+body {
+	font-family: "Source Code Pro";
+	background-color: red;
+
+}
+
+main {
+		background-color: white;
+		padding: 25px 25px 25px 25px;
+		width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+nav {
+	width:800px;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	
+}
+
+nav a{
+	text-decoration: none;
+	color:black;
+}
+nav ul {
+  list-style: none;
+	padding-left: 0px; 
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+}
+
+nav ul li {
+	display: inline;
+}
+
+li.active a {
+	font-family: "Source Code Pro";
+  	font-weight: 900;
+}
+
+img{
+	width:500px;
+	margin-left: auto;
+  	margin-right: auto;
+
+}
+
+aside{
+	font-weight: 200;
+	color: white;
+	position: absolute;
+	left: 1090px;
+	margin-top: -500px;
+	width:300px;
+	background-color:gray;
+	padding: 20px 20px 20px 20px;
+
+}
+
+b{
+	font-weight:700;
+}
